@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Ewerton Cunha!👋
+
+Sou Analista de Sistemas, concurseiro com 3x🏆, graduando de Engenharia de Software.
+
+Atualmente meu foco profissional é a área de Ciência de Dados e Inteligência Artificial.
 
 <!--
 **ewerton47/ewerton47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
