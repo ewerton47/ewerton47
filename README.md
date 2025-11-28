@@ -1,6 +1,6 @@
 ## Hi there, I'm Ewerton Cunha!👋
 
-Sou Analista de Sistemas, concurseiro com 3x🏆, graduando de Engenharia de Software.
+Analista de Sistemas, graduando de Engenharia de Software.
 
 Atualmente meu foco profissional é a área de Ciência de Dados e Inteligência Artificial.
 
